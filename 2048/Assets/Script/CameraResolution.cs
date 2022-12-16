@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraResolution : MonoBehaviour
 {
-    void Awake()
+    void Awake() //핸드폰의 크기에 따라 9:16비율로 설정
     {
         Camera camera = GetComponent<Camera>();
         Rect rect = camera.rect;
