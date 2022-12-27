@@ -22,4 +22,4 @@ Resource : https://www.youtube.com/watch?v=228IouV9xe8&list=PL3KKSXoBRRW0jrCh29Z
 
 ## Notion
 
-Link : https://www.notion.so/2048-dbf0b8dc45d947a48e58a591e35ed54d
+### [Link](https://www.notion.so/2048-dbf0b8dc45d947a48e58a591e35ed54d)
