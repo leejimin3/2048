@@ -1,12 +1,8 @@
 # 2048
----
 
 ## Preview
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/86705754/209589487-2de2d21b-2ff9-4edd-b00c-8996939d5127.gif)
-
-
-
 
 ## Engine
 
